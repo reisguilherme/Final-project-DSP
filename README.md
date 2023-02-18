@@ -3,8 +3,8 @@
 ## Objetivo:
   Este projeto propõe a elaboração de um assistente pessoal utilizando o ChatGPT, processamento de voz e áudio, e Stable Diffusion, permitindo ao usuário interagir com o modelo de linguagem natural (ChatGpt) de maneira mais intuitiva e divertida. Esta integração aumenta a eficiência e conveniência do uso da tecnologia, tornando-a mais acessível e ampliando suas aplicações em vários setores da sociedade.
   
-# Ferramentas:
-## Pré Processamento de Áudio: 
+## Ferramentas:
+### Pré Processamento de Áudio: 
   A captura de áudio para a utilização no projeto deve ser realizada através de um dispositivo de gravação, como microfone, o qual obtém o sinal analógico do áudio. Esse sinal será tratado corretamente a fim de evitar a perda de informações importantes.
   
 ## Speech to text (STT):
