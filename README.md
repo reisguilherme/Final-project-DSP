@@ -1,4 +1,6 @@
-# Assistente pessoal usando o ChatGPT
+# Integração de ferramentas de Inteligência Artificial para assistentes virtuais
+
+## Assistente pessoal usando o ChatGPT
 
 ## Objetivo:
    Este projeto propõe a elaboração de um assistente pessoal utilizando o ChatGPT, processamento de voz e áudio, e Stable Diffusion, permitindo ao usuário interagir com o modelo de linguagem natural (ChatGpt) de maneira mais intuitiva e divertida. Esta integração aumenta a eficiência e conveniência do uso da tecnologia, tornando-a mais acessível e ampliando suas aplicações em vários setores da sociedade.
