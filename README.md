@@ -52,20 +52,26 @@ GTTS. Documentação do módulo GTTS. Read the Docs, 2023. Disponível em: <http
 
 ## Autores:
 ALEXANDRE COSTA FERRO FILHO, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG). 
+
   Contato: alexandre_ferro@discente.ufg.br
 
 DECIVAN DAMASCENO ARAUJO FILHO, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG). 
+
   Contato: decivan.damasceno@discente.ufg.br
 
 EVELLYN NICOLE MACHADO ROSA, aluna do bacharelado em IA na Universidade Federal de Goiás (UFG). 
+
   Contato: nicole@discente.ufg.br
 
 GUILHERME HENRIQUE DOS REIS, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG). 
+
   Contato: guilherme_reis@discente.ufg.br
 
 MARCELO HENRIQUE LOPES FERREIRA, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG). 
+
   Contato: marcelomarcelo2@discente.ufg.br
 
 MURILO DE OLIVEIRA GUIMARAES, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG). 
+
   Contato: muriloguimaraes@discente.ufg.br
 
