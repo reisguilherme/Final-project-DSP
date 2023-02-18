@@ -51,15 +51,21 @@ OPENAI. Whisper. GitHub, 2018. Disponível em: <https://github.com/openai/whispe
 GTTS. Documentação do módulo GTTS. Read the Docs, 2023. Disponível em: <https://gtts.readthedocs.io/en/latest/module.html#languages-gtts-lang>. Acesso em: 14 de fev. de 2023
 
 ## Autores:
-ALEXANDRE COSTA FERRO FILHO, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
+ALEXANDRE COSTA FERRO FILHO, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG). 
 Contato: alexandre_ferro@discente.ufg.br
-DECIVAN DAMASCENO ARAUJO FILHO, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
+
+DECIVAN DAMASCENO ARAUJO FILHO, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG). 
 Contato: decivan.damasceno@discente.ufg.br
-EVELLYN NICOLE MACHADO ROSA, aluna do bacharelado em IA na Universidade Federal de Goiás (UFG).
+
+EVELLYN NICOLE MACHADO ROSA, aluna do bacharelado em IA na Universidade Federal de Goiás (UFG). 
 Contato: nicole@discente.ufg.br
-GUILHERME HENRIQUE DOS REIS, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
+
+GUILHERME HENRIQUE DOS REIS, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG). 
 Contato: guilherme_reis@discente.ufg.br
-MARCELO HENRIQUE LOPES FERREIRA, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
+
+MARCELO HENRIQUE LOPES FERREIRA, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG). 
 Contato: marcelomarcelo2@discente.ufg.br
-MURILO DE OLIVEIRA GUIMARAES, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
+
+MURILO DE OLIVEIRA GUIMARAES, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG). 
 Contato: muriloguimaraes@discente.ufg.br
+
