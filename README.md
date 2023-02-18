@@ -28,7 +28,7 @@
 ### Grad.io:
    O avanço do aprendizado de máquina possibilitou o desenvolvimento de novas Inteligências Artificiais (IA) e modelos de Processamento de Linguagem Natural (NLP), o que resultou em uma ampla utilização desses modelos por grande parte da população, como é o exemplo do ChatGPT e algumas IAs que geram imagens. Contudo, mesmo que o conhecimento desses chatbots sejam muito amplos, não é o suficiente para que o usuário consiga interagir com esse chatbot, por isso é muito importante uma interface simples, de fácil interação e intuitiva.
    
-    Com isso, para criar uma interface atraente e cativante para o chatbot, foi utilizado o Grad.io, que é um pacote do Python open-source que auxilia a fazer interfaces para o usuário. O Grad.io consegue disponibilizar para o modelo uma página web, dessa forma, facilitando a utilização de outras pessoas que possam estar interessadas no chatbot.
+   Com isso, para criar uma interface atraente e cativante para o chatbot, foi utilizado o Grad.io, que é um pacote do Python open-source que auxilia a fazer interfaces para o usuário. O Grad.io consegue disponibilizar para o modelo uma página web, dessa forma, facilitando a utilização de outras pessoas que possam estar interessadas no chatbot.
   
 ## Metodologia: 
    Foi optado pela utilização do modelo Whisper para a implementação do Speech-to-Text, devido à sua transcrição satisfatória sem a necessidade de um pré-processamento muito complexo, à disponibilidade do modelo para o idioma português (já que o modelo é multilinguístico) e à sua capacidade de realizar transcrições precisas sem a necessidade de treinamento adicional, o que economiza tempo.
@@ -58,21 +58,21 @@ OPENAI. Whisper. GitHub, 2018. Disponível em: <https://github.com/openai/whispe
 GTTS. Documentação do módulo GTTS. Read the Docs, 2023. Disponível em: <https://gtts.readthedocs.io/en/latest/module.html#languages-gtts-lang>. Acesso em: 14 de fev. de 2023
 
 ## Autores:
-    ALEXANDRE COSTA FERRO FILHO, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
+   ALEXANDRE COSTA FERRO FILHO, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
     Contato: alexandre_ferro@discente.ufg.br
 
-    DECIVAN DAMASCENO ARAUJO FILHO, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
+   DECIVAN DAMASCENO ARAUJO FILHO, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
     Contato: decivan.damasceno@discente.ufg.br
 
-    EVELLYN NICOLE MACHADO ROSA, aluna do bacharelado em IA na Universidade Federal de Goiás (UFG).
+   EVELLYN NICOLE MACHADO ROSA, aluna do bacharelado em IA na Universidade Federal de Goiás (UFG).
     Contato: nicole@discente.ufg.br
 
-    GUILHERME HENRIQUE DOS REIS, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
+   GUILHERME HENRIQUE DOS REIS, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
     Contato: guilherme_reis@discente.ufg.br
 
-    MARCELO HENRIQUE LOPES FERREIRA, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
+   MARCELO HENRIQUE LOPES FERREIRA, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
     Contato: marcelomarcelo2@discente.ufg.br
     
-    MURILO DE OLIVEIRA GUIMARAES, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
+   MURILO DE OLIVEIRA GUIMARAES, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
     Contato: muriloguimaraes@discente.ufg.br
 
