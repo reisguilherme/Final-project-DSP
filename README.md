@@ -65,7 +65,7 @@ GTTS. Documentação do módulo GTTS. Read the Docs, 2023. Disponível em: <http
     Contato: decivan.damasceno@discente.ufg.br
 
    EVELLYN NICOLE MACHADO ROSA, aluna do bacharelado em IA na Universidade Federal de Goiás (UFG).
-    Contato: nicole@discente.ufg.br
+    Contato:           nicole@discente.ufg.br
 
    GUILHERME HENRIQUE DOS REIS, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
     Contato: guilherme_reis@discente.ufg.br
