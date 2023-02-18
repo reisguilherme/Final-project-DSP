@@ -10,7 +10,7 @@
 ### Speech to text (STT):
   STT é uma tecnologia de processamento de fala que permite a conversão da fala em texto. Ele é usado dentro do projeto para capturar a voz do indivíduo e convertê-la em texto para compreensão do ChatGPT. O funcionamento dessa ferramenta pode ser dividida em etapas: aquisição do áudio, processamento de fala e reconhecimento de fala.
   
-## Text to speech (TTS):
+### Text to speech (TTS):
   O TTS é o processo inverso do STT, sendo o processo pelo qual um texto é convertido em fala artificial, usado dentro do projeto para transmitir o texto gerado pelo ChatGPT, em forma de voz. Esse processo envolve diversas etapas, como: a análise do texto, em que é analisado o texto de entradas - palavras, frases e símbolos -; a geração de fonemas, etapa em que as palavras do texto são convertidas em fonemas - unidade básica de som utilizada para formar palavras -; modelagem da fala, o qual envolve a seleção de parâmetros como velocidade, entonação e inflexão; e por fim a síntese da voz, técnica para combinar os fonemas em um áudio, incorporando as informações sobre a modelagem da fala
 
 ### ChatGpt:
@@ -50,3 +50,16 @@ OPENAI. Whisper. GitHub, 2018. Disponível em: <https://github.com/openai/whispe
 
 GTTS. Documentação do módulo GTTS. Read the Docs, 2023. Disponível em: <https://gtts.readthedocs.io/en/latest/module.html#languages-gtts-lang>. Acesso em: 14 de fev. de 2023
 
+## Autores:
+ALEXANDRE COSTA FERRO FILHO, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
+Contato: alexandre_ferro@discente.ufg.br
+DECIVAN DAMASCENO ARAUJO FILHO, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
+Contato: decivan.damasceno@discente.ufg.br
+EVELLYN NICOLE MACHADO ROSA, aluna do bacharelado em IA na Universidade Federal de Goiás (UFG).
+Contato: nicole@discente.ufg.br
+GUILHERME HENRIQUE DOS REIS, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
+Contato: guilherme_reis@discente.ufg.br
+MARCELO HENRIQUE LOPES FERREIRA, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
+Contato: marcelomarcelo2@discente.ufg.br
+MURILO DE OLIVEIRA GUIMARAES, aluno do bacharelado em IA na Universidade Federal de Goiás (UFG).
+Contato: muriloguimaraes@discente.ufg.br
